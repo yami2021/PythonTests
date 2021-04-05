@@ -1,7 +1,4 @@
 class Calculator:
-"""
-simple calculator
-"""
 
     @staticmethod
     def add(a, b):
